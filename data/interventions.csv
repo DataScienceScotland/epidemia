@@ -1,0 +1,61 @@
+Country,Type,Event,Date.effective
+England,Lockdown,Gatherings of more than 2 people not from the same household banned and police-enforceable.,24.03.2020
+NI,Lockdown,Gatherings of more than 2 people not from the same household banned and police-enforceable.,24.03.2020
+Scotland,Lockdown,Gatherings of more than 2 people not from the same household banned and police-enforceable.,24.03.2020
+Wales,Lockdown,Gatherings of more than 2 people not from the same household banned and police-enforceable.,24.03.2020
+England,Nursery,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",21.03.2020
+NI,Nursery,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",21.03.2020
+Scotland,Nursery,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",20.03.2020
+Wales,Nursery,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",21.03.2020
+England,Public events,Implemented with lockdown.,24.03.2020
+NI,Public events,Implemented with lockdown.,24.03.2020
+Scotland,Public events,Implemented with lockdown.,16.03.2020
+Wales,Public events,Implemented with lockdown.,24.03.2020
+England,Schools + Universities,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",21.03.2020
+NI,Schools + Universities,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",21.03.2020
+Scotland,Schools + Universities,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",20.03.2020
+Wales,Schools + Universities,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",21.03.2020
+England,Self-isolating if ill,Advice to self-isolate for 7 days if experiencing a cough or fever symptoms.,12.03.2020
+NI,Self-isolating if ill,Advice to self-isolate for 7 days if experiencing a cough or fever symptoms.,12.03.2020
+Scotland,Self-isolating if ill,Advice to self-isolate for 7 days if experiencing a cough or fever symptoms.,12.03.2020
+Wales,Self-isolating if ill,Advice to self-isolate for 7 days if experiencing a cough or fever symptoms.,12.03.2020
+England,shops,,24.03.2020
+NI,shops,,24.03.2020
+Scotland,shops,,24.03.2020
+Wales,shops,,24.03.2020
+England,Social distancing encouraged,"Advice to avoid pubs, clubs, theatres and other public institutions.",16.03.2020
+NI,Social distancing encouraged,"Advice to avoid pubs, clubs, theatres and other public institutions.",16.03.2020
+Scotland,Social distancing encouraged,"Advice to avoid pubs, clubs, theatres and other public institutions.",16.03.2020
+Wales,Social distancing encouraged,"Advice to avoid pubs, clubs, theatres and other public institutions.",16.03.2020
+England,Secondary,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",21.03.2020
+NI,Secondary,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",21.03.2020
+Scotland,Secondary,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",20.03.2020
+Wales,Secondary,"Nationwide school closure. Childminders, nurseries and sixth forms are told to follow the guidance.",21.03.2020
+England,Outdoor,Gatherings of more than 2 people not from the same household banned and police-enforceable.,24.03.2020
+NI,Outdoor,Gatherings of more than 2 people not from the same household banned and police-enforceable.,24.03.2020
+Scotland,Outdoor,Gatherings of more than 2 people not from the same household banned and police-enforceable.,24.03.2020
+Wales,Outdoor,Gatherings of more than 2 people not from the same household banned and police-enforceable.,24.03.2020
+Scotland,New interventions,Further lockdowns,09.10.2020
+England,New interventions,Further lockdowns,14.10.2020
+Wales,New interventions,Further lockdowns,23.10.2020
+NI,New interventions,Further lockdowns,16.10.2020
+Scotland,January lockdown,Further lockdowns,05.01.2021
+England,January lockdown,Further lockdowns,05.01.2021
+Wales,January lockdown,Further lockdowns,05.01.2021
+NI,January lockdown,Further lockdowns,05.01.2021
+Scotland,School holidays,Summer 2021,02.07.2021
+NI,School holidays,Summer 2021,02.07.2021
+England,School holidays,Summer 2021,30.07.2021
+Wales,School holidays,Summer 2021,30.07.2021
+Scotland,decr1,decrease in cases in September 2021,01.09.2021
+NI,decr1,decrease in cases in September 2021,01.09.2021
+England,decr1,decrease in cases in September 2021,01.09.2021
+Wales,decr1,decrease in cases in September 2021,01.09.2021
+Scotland,decr2,peak of infections after xmas,27.12.2021
+NI,decr2,peak of infections after xmas,27.12.2021
+England,decr2,peak of infections after xmas,27.12.2021
+Wales,decr2,peak of infections after xmas,27.12.2021
+Scotland,decr3,drop in WW levels in March 22,24.03.2022
+NI,decr3,drop in WW,24.03.2022
+England,decr3,drop in WW,24.03.2022
+Wales,decr3,drop in WW,24.03.2022
